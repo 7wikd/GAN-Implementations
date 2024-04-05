@@ -1,2 +1,2 @@
 # GAN-Implementations
-Various GAN models implemented in Python(mostly PyTorch). Done in order to learn the structures.
+Implemented various Generative Adversarial Network (GAN) architectures in Python (primarily PyTorch) to investigate their structures and capabilities. This independent project resulted in the creation of a well-documented codebase, "GAN-Implementations," which explores diverse GAN models. This project facilitated a strong foundation in understanding GAN theoretical underpinnings and practical implementation. 
